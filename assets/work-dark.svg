@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Selected work: telegram-automation and FaceBook Group AutoPoster Pro">
+  <title>Selected work</title>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1120"/>
+      <stop offset="1" stop-color="#0C1830"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="878.5" height="248.5" rx="18" fill="url(#panel)" stroke="#1E2A45" stroke-width="1.5"/>
+  <circle cx="820" cy="20" r="150" fill="url(#glow)"/>
+
+  <!-- row 1 -->
+  <rect x="0.75" y="34" width="3.5" height="62" fill="url(#bar)"/>
+  <text x="40" y="68" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="1.5" fill="#22D3EE">01</text>
+  <text x="78" y="66" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="600" fill="#F1F5F9">telegram-automation</text>
+  <text x="78" y="94" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13.5" fill="#94A3B8">Telegram bot automation toolkit — scripted messaging workflows on the Bot API.</text>
+  <rect x="742" y="42" width="98" height="30" rx="15" fill="#0E1B2F" stroke="#1F3B52" stroke-width="1"/>
+  <text x="791" y="61" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#22D3EE">Python</text>
+
+  <path d="M40 122 H840" stroke="#1B2740" stroke-width="1"/>
+
+  <!-- row 2 -->
+  <rect x="0.75" y="148" width="3.5" height="62" fill="url(#bar)"/>
+  <text x="40" y="182" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="1.5" fill="#A78BFA">02</text>
+  <text x="78" y="180" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="600" fill="#F1F5F9">FaceBook_Group_AutoPoster_Pro</text>
+  <text x="78" y="208" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13.5" fill="#94A3B8">Windows desktop app that schedules and publishes posts across Facebook groups.</text>
+  <rect x="742" y="156" width="98" height="30" rx="15" fill="#0E1B2F" stroke="#1F3B52" stroke-width="1"/>
+  <text x="791" y="175" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" fill="#A78BFA">JavaScript</text>
+</svg>
