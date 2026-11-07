@@ -1,6 +1,6 @@
 <!-- ══════════════════════════════════════════════════════════════════════
      Rasel Ahmed · @theraseldev
-     Profile README — theme-aware hero, grouped stack, live stats, work cards
+     Profile README — theme-aware hero, service cards, selected work
      ══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
@@ -27,22 +27,34 @@
 
 ## 👤 About
 
-I'm a **developer and tech entrepreneur** from Bangladesh. I build practical software that
-removes repetitive work — desktop automation tools, Telegram bots, and AI-assisted web utilities.
+I'm a **developer and tech entrepreneur** from Bangladesh. I build software that removes
+repetitive work — Python automation, desktop tools, Telegram bots, and AI-assisted web utilities.
+
+- 🔭 **Building** automation tools that take over the boring, repeatable parts of running an online business
+- 🧠 **Focused on** Python automation · web tooling · AI-powered workflows · messaging platforms
+- 🤝 **Open to** automation projects, product collaborations and interesting technical problems
+- ⚡ **Approach** ship small, ship useful, then make it fast and reliable
+
+<br/>
+
+## 🎯 What I Build
 
 <table>
   <tr>
-    <td width="34%" valign="top">
-      <b>🔭 Building</b><br/>
-      Automation tools that take over the boring, repeatable parts of running an online business.
+    <td width="33%" valign="top">
+      <h3>⚙️ Automation</h3>
+      Python scripts and desktop tools that handle scheduling, posting, scraping and bulk
+      operations — so manual work becomes a single click.
     </td>
     <td width="33%" valign="top">
-      <b>🧠 Focused on</b><br/>
-      Python automation · web tooling · AI-powered workflows · social &amp; messaging platforms.
+      <h3>🤖 Bots &amp; Integrations</h3>
+      Telegram bots and platform integrations wired to real APIs, with clean commands,
+      predictable behaviour and logs you can trust.
     </td>
     <td width="33%" valign="top">
-      <b>🤝 Open to</b><br/>
-      Automation projects, product collaborations, and interesting technical problems.
+      <h3>🧩 Web Tools &amp; AI</h3>
+      Lightweight web utilities and AI-assisted workflows that turn messy inputs into
+      structured, usable output.
     </td>
   </tr>
 </table>
@@ -63,7 +75,7 @@ removes repetitive work — desktop automation tools, Telegram bots, and AI-assi
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-1E293B?style=flat-square&logo=telegram&logoColor=26A5E4)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square&logo=fastapi&logoColor=22D3EE)
 ![AI / LLM](https://img.shields.io/badge/AI_%2F_LLM_Tooling-1E293B?style=flat-square&logo=openai&logoColor=A78BFA)
-![Web Scraping](https://img.shields.io/badge/Web_Automation-1E293B?style=flat-square&logo=googlechrome&logoColor=60A5FA)
+![Web Automation](https://img.shields.io/badge/Web_Automation-1E293B?style=flat-square&logo=googlechrome&logoColor=60A5FA)
 
 **Environment & Tooling**
 
@@ -75,34 +87,20 @@ removes repetitive work — desktop automation tools, Telegram bots, and AI-assi
 
 <br/>
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=theraseldev&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0B1224&amp;card_width=430" alt="GitHub stats" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theraseldev&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;bg_color=0B1224&amp;card_width=360" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=theraseldev&amp;hide_border=true&amp;background=0B1224&amp;border=0B1224&amp;stroke=1E293B&amp;ring=22D3EE&amp;fire=A78BFA&amp;currStreakNum=F8FAFC&amp;currStreakLabel=22D3EE&amp;sideNums=94A3B8&amp;sideLabels=64748B&amp;dates=64748B" alt="Contribution streak" />
-</p>
-
-<br/>
-
 ## 🚀 Selected Work
 
 <p align="center">
-  <a href="https://github.com/theraseldev/telegram-automation">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=theraseldev&amp;repo=telegram-automation&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0B1224" alt="telegram-automation" />
-  </a>
-  <a href="https://github.com/theraseldev/FaceBook_Group_AutoPoster_Pro">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=theraseldev&amp;repo=FaceBook_Group_AutoPoster_Pro&amp;hide_border=true&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=94A3B8&amp;bg_color=0B1224" alt="FaceBook_Group_AutoPoster_Pro" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/work-light.svg">
+    <img src="./assets/work-light.svg" alt="Selected work: telegram-automation and FaceBook Group AutoPoster Pro" width="100%">
+  </picture>
 </p>
 
-| Project | What it does |
-| :-- | :-- |
-| **[telegram-automation](https://github.com/theraseldev/telegram-automation)** <br/> `Python` | Telegram bot automation toolkit — scripted workflows and messaging routines built on the Telegram Bot API. |
-| **[FaceBook_Group_AutoPoster_Pro](https://github.com/theraseldev/FaceBook_Group_AutoPoster_Pro)** <br/> `JavaScript` | Windows desktop tool that schedules and publishes posts across Facebook groups, with content presets, bookmark management and image support. |
+<p align="center">
+  <a href="https://github.com/theraseldev/telegram-automation"><img src="https://img.shields.io/badge/View-telegram--automation-1E293B?style=flat-square&amp;logo=github&amp;logoColor=22D3EE" alt="telegram-automation repository"></a>
+  <a href="https://github.com/theraseldev/FaceBook_Group_AutoPoster_Pro"><img src="https://img.shields.io/badge/View-FaceBook__Group__AutoPoster__Pro-1E293B?style=flat-square&amp;logo=github&amp;logoColor=A78BFA" alt="FaceBook_Group_AutoPoster_Pro repository"></a>
+</p>
 
 <br/>
 
@@ -117,9 +115,9 @@ removes repetitive work — desktop automation tools, Telegram bots, and AI-assi
 </p>
 
 <p align="center">
-  <i>Have an idea that needs automating? Let's talk — <a href="mailto:raselahem6@gmail.com">raselahem6@gmail.com</a></i>
+  <i>Have something that needs automating? Let's talk — <a href="mailto:raselahem6@gmail.com">raselahem6@gmail.com</a></i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built_with-purpose-by_Rasel_Ahmed-0B1224?style=flat-square&amp;labelColor=1E293B&amp;color=A78BFA" alt="Built with purpose by Rasel Ahmed">
+  <img src="https://img.shields.io/badge/Built_with_purpose-by_Rasel_Ahmed-0B1224?style=flat-square&amp;labelColor=1E293B&amp;color=A78BFA" alt="Built with purpose by Rasel Ahmed">
 </p>
